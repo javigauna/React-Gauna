@@ -1,0 +1,27 @@
+.nav{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display:flex;
+    justify-content: space-around;
+    background-color: rgba(9, 247, 136, 0.958);
+    
+}
+
+.nav a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.nav a:hover{
+    color: black;
+}
+
+.logo{
+    font-size: 30px;
+    color: aliceblue;
+    text-align: start;
+    
+}
